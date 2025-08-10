@@ -1,0 +1,11 @@
+{
+  "name": "GroceryEcommerce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ThangIT2k4/GroceryEcommerce.git",
+  "author": "ThangIT2k4 <bboybt2k4@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "sass": "sass scss:assets/css -w"
+  }
+}
